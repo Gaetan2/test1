@@ -1,22 +1,22 @@
-[
-  {
-    "ZonePeuple": "true",
-    "ZoneChateau": "true",
-    "ZoneFort": "False",
-    "ZonePort": "False",
-    "NbreRavitaillement": "3",
-    "PuissanceDefense": "2",
-    "ZoneAdjacent1": "2",
-    "ZoneAdjacent2": "1"
-  },
-    {
-    "ZonePeuple": "yo",
-    "ZoneChateau": "yo",
-    "ZoneFort": "yo",
-    "ZonePort": "yo",
-    "NbreRavitaillement": "3",
-    "PuissanceDefense": "2",
-    "ZoneAdjacent1": "2",
-    "ZoneAdjacent2": "1"
-  }
-]
+[  
+   {  
+    "ZonePeuple":"true",
+    "ZoneChateau":"true",
+    "ZoneFort":"False",
+    "ZonePort":"False",
+    "NbreRavitaillement":"3",
+    "PuissanceDefense":"2",
+    "ZoneAdjacent1":"2",
+    "ZoneAdjacent2":"1"
+   },
+   {  
+    "ZonePeuple":"yo",
+    "ZoneChateau":"yo",
+    "ZoneFort":"yo",
+    "ZonePort":"yo",
+    "NbreRavitaillement":"3",
+    "PuissanceDefense":"2",
+    "ZoneAdjacent1":"2",
+    "ZoneAdjacent2":"1"
+   }
+ ]
